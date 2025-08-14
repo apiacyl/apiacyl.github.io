@@ -1,5 +1,5 @@
 const n=1,
-titulo="Convocadas oposiciones al cuerpo informático de JCYL",
+titulo="Convocadas oposiciones de personal informático de JCYL",
 descripcion="Convocados grupos I, II y III con 12, 24 y 14 plazas respectivamente,",
 fecha="20 mayo, 2025",
 categoria="Oposiciones",

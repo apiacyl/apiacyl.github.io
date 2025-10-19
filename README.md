@@ -4,8 +4,9 @@ timeline
     title Hitos 
     section Organización Apiacyl
         Asambleas : 02/06/2025
-    section Reuniones
-        D.G.T.A.D. : 19/02/2025 : 18/09/2025
-        D.G.F.P. :   03/06/2025
+        Comunicaciones : 04/10/2025 - Presentación en RRSS : 06/07/2025 - Tribunales de Oposiciones : 10/06/2025 - Resumen D.G.F.P.: 11/06/2025 - Resumen asamblea : 01/06/2025 - Recordatorio de convocatoria asamblea : 20/05/2025 - Convocatoria asamblea : 29/04/2025 - Apertura plazo de presentación de candidaturas
+    section Reuniones 
+        Dirección General de Telecomunicaciones y Administración Digital : 19/02/2025 : 18/09/2025
+        Dirección General de Función Pública :   03/06/2025
         Sindicatos : 16/09/2025 (Uscal)
          

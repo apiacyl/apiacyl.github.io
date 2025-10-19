@@ -1,10 +1,11 @@
 ## 🗓️ Timeline Apiacyl
 ```mermaid
 timeline
-    title Hitos conseguidos 
-    section Apiacyl
+    title Hitos 
+    section Organización Apiacyl
         Asambleas : 02/06/2025
     section Reuniones
-        Dirección General de Telecomunicaciones y Administración General: 18/09/2025
-        Dirección General de Función Pública: 
-        Sindicato USCAL: 
+        D.G.T.A.D. : 18/09/2025
+        D.G.F.P. : 
+        Sindicatos: 16/09/2025 (Uscal)
+

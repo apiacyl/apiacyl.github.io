@@ -10,5 +10,5 @@ timeline
     section Agenda
         Dirección General de Telecomunicaciones y Administración Digital : 18/09/2025
         Dirección General de Función Pública :   03/06/2025
-        Sindicatos : 16/09/2025 <br> USCAL
+        Sindicatos : 16/09/2025 <br> USCAL : 24/11/2025 <br> UGT
          
